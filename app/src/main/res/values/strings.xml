@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string name="login">login</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="password">Password</string>
+    <string name="add_post">add</string>
+    <string name="sign_out">Sign out</string>
+    <string name="post_title">Post Title</string>
+    <string name="post_details">Post Details</string>
+    <string name="post">Post</string>
+    <string name="second_name">Second Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+</resources>
